@@ -1,2 +1,2 @@
 # Drifter
-A minecraft Modpack
+A minecraft Modpack. Wham Bam Thank You Ma'am™
