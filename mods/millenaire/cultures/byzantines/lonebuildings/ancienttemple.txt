@@ -1,0 +1,20 @@
+name=Archaio Nao
+weight=10
+radius=10
+
+mindistancefromspawn=1000
+
+// Vanilla biomes
+biome=Forest
+biome=Plains
+biome=Savanna
+
+//biomes o'plenty
+biome=chaparral
+biome=meadow
+biome=orchard
+biome=shrubland
+biome=steppe
+
+//starting buildings=
+centre=ancienttemplebyzantine

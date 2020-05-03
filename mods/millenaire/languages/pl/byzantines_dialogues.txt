@@ -1,0 +1,79 @@
+newchat;key:sun,tag:notraining,weigth:18
+v1;0;Agapo ilióloustes méres! / Uwielbiam słoneczne dni!
+v2;30;Poios den échei? / A kto ich nie lubi?
+
+newchat;key:nicevillage,weigth:10
+v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / Zawsze miło jest popatrzeć na naszą uroczą wioskę, czyż nie?
+v2;30;Fysiká, kai eínai óla lógo ton terástion prospatheión mas! / Oczywiście! Przecież ona jest owocem naszego wysiłku!
+
+newchat;key:sunzombie,tag:notraining,weigth:2
+v1;0;Agapo ilióloustes méres! / Uwielbiam słoneczne dni!
+v2;30;Poios den échei? / A kto ich nie lubi?
+v1;60;Den to káno. / Ja ich nie lubię.
+v2;120;Giatí óchi? / Dlaczego?
+v1;150;O ílios kaíei! Misó to exoterikó! / Słońce parzy! Nienawidzę przebywać na zewnątrz!
+v2;180;Eísai san zómpi! / Zachowujesz się jak zombie!
+v1;210;Ísos eímai ... / Może nim jestem...
+
+newchat;key:nothomeyet,weigth:6
+v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / Zawsze miło jest popatrzeć na naszą małą wioskę, czyż nie?
+v2;30;Fysiká eínai! Échoume xodépsei tóso polý chróno na doulépsoume se aftó to méros. / Pewnie! Tyle czasu poświęciliśmy pracując nad tym miejscem.
+v1;60;Eínai schedón san sto spíti, akrivós ópos prin írthame edó. / Tutaj jest prawie jak w domu, tak jak zanim tu przybyliśmy.
+v2;90;Aftó eínai to spíti mas tóra, aplá prépei na to apodechtoúme. / Teraz to jest nasz dom, musimy się z tym pogodzić.
+v1;120;Xéro, tha to dechtó me ton kairó ... / Wiem, alę potrzebuję na to jeszcze trochę czasu...
+
+newchat;key:ishome,weigth:6
+v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / Zawsze miło jest popatrzeć na naszą małą wioskę, czyż nie?
+v2;30;Fysiká eínai! Échoume xodépsei tóso polý chróno na doulépsoume se aftó to méros. / Pewnie! Tyle czasu poświęciliśmy pracując nad tym miejscem.
+v1;60;Eínai schedón san sto spíti, akrivós ópos prin írthame edó. / Tutaj jest prawie jak w domu, tak jak zanim tu przybyliśmy.
+v2;90;Aftó eínai to spíti mas tóra, aplá prépei na to apodechtoúme. / Teraz to jest nasz dom, musimy się z tym pogodzić.
+v1;120;Aftó eínai to spíti mas tóra, aftí i syzítisi me ékane na to syneiditopoiíso. / To jest teraz nasz dom, dzięki tej rozmowie to zrozumiałem.
+
+newchat;key:goodharvest1,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-patriarch_byzantine,building:farm,building:vineyard,notbuilding:taverna,weigth:24
+v1;0;To sitári kai ta stafýlia mas afxánontai polý fétos. / Nasza pszenica oraz winogron rosną nadzwyczaj dobrze w tym roku.
+v2;30;Nai, oi agrótes anaféroun rekór rekór kai dokimásate to krasí? / Tak, nasi farmerzy zgłaszają rekordy w ilości plonów. Czy próbowałeś już naszego wina?
+v1;60;Den échoume tavérna gia na kánoume krasí ... / Um, przecież nie mamy żadnej winiarni aby je wytworzyć...
+v2;120;O ..., tóte ti épaiza chthes ?!/ Oh..., w takim razie co ja wczoraj piłem?
+
+newchat;key:goodharvest1withtavern,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-patriarch_byzantine,building:farm,building:vineyard,building:taverna,weigth:14
+v1;0;To sitári kai ta stafýlia mas afxánontai polý fétos. / Nasze zboże i winogrona rosły obficie w tym roku.
+v2;30;Nai, oi agrótes anaféroun rekór rekór kai dokimásate to krasí? / Tak, nasi rolnicy mówią o rekordowych zbiorach. A czy próbowałeś wina?
+v1;60;Echo! To exairetikó romaïkó mas krasí échei kalýteri géfsi apó poté!/ Oczywiście! Nasze rzymskie wino nigdy nie było takie wyśmienite!
+v2;90;Xéro, den eínai katapliktikó? Eícha pénte olóklira boukália chthes. To kalýtero krasí pou eícha poté! / Jest obłędne, czyż nie? Wczoraj wypiłem pięć całych butelek. Najlepsze wino jakie kiedykolwiek próbowałem!
+v1;120;Pénte olóklira boukália? Prépei na epivradýneis ton ánthropo! Akómi kai an eínai mia exairetikí epochí, kindynéveis na gíneis methysménos me aftó to polý krasí!/ Pięć całych butelek? Lepiej troche przyhamuj! Mimo tego, że mamy świetny sezon nadal możesz zostać pijakiem jak będziesz pił tyle wina!
+v2;150;Tha eímai kalá ótan o ponokéfalos aftós enkataleiftheí ... / Będzie wszystko w porządku jak tylko przejdzie mi ten ból głowy...
+
+newchat;key:cider,v1:adult,v2:adult,notbuilding:taverna,weigth:2
+v1;0;Chreiazómaste mia tavérna gia na ftiáxoume to krasí polý sýntoma. / Potrzebujemy tawerny, aby robić tam wino, jak najszybciej.
+v2;30;Ti? Giatí? Sígoura, to krasí eínai kaló, allá éna olókliro ktírio gia to krasí? Prépei na váloume proteraiótites stis proteraiótités sas! / Co? Czemu? Fakt, wino jest dobre, ale cały budynek poświęcony winu? Musisz zmienić swoje priorytety!
+v1;60;Dokímasa lígo chymó Norman chtes. Ítan friktó! Pós oi ágrioi san aftó? / Wczoraj próbowałem normańskiego cydru. Był obrzydliwy! Jakim cudem te dzikusy to lubią?
+v2;90;Giatí dokimázete ta potá ton ágrion? Eísai ilíthios?! / Dlaczego pijesz napoje dzikusów? Jesteś idiotą?!
+v1;120;Ego eimai... / Jestem...
+v2;130;Pánta na píneis romaïkí ousía! ROMAÏKÍ OUSÍA! / Zawsze pij tylko rzymskie rzeczy! RZYMSKIE RZECZY!
+
+newchat;key:harvest,weigth:10
+v1;0;sitári afxánetai polý kalá aftí ti chroniá, étsi eínai ta stafýlia, kathos kai. Lampro, den eínai? / Zboże, tak jak i winogrona, rosną bardzo szybko w tym roku. Niesamowite, czyż nie?
+v2;30;Nai, faínetai étsi: Échoume to períergo kairo edo na efcharistíso. / Wygląda na to, że tak. Możemy podziękować za to tej dziwnej pogodzie.
+v1;60;Akoma kai an afto den échei kanéna noima gia ména! / Nawet jeśli to nie ma dla mnie żadnego sensu!
+
+newchat;key:lightning,weigth:7
+v1;0;Thymáste tin kataigída pou eíchame? Thélo na po to pragmatiká varý! / Pamiętasz jaka burza do nas zawitała? Mam na myśli tą okropną!
+v2;30;Fysiká. Schedon katastráfike synkomidí mas. I fýsi eínai arketá entyposiako, e? / Oczywiście. Prawie zniszczyła nasze plony. Natura bywa zaskakująca, co?
+v1;60;Entyposiakí eínai éna prágma. Allá ímoun schedon chtypíthike apo keravno! / Zaskakująca to jedno. Z drugiej strony prawie uderzył we mnie piorun!
+v2;100;Den ítan mésa sto spíti sas? Xérete oti eínai epikíndyno éxo katá ti diárkeia mias kataigídas! / Nie byłeś wtedy w domu? Przecież wiesz, że podczas burzy jest niebezpiecznie na dworze!
+v1;120;Zontaná kai na máthoun. / Człowiek uczy się na własnych błędach.
+
+newchat;key:lightningpig,weigth:1,v1:adult,v2:adult
+v1;0;Ego den aisthánomai kalá ... / Niedobrze mi...
+v2;30;Ti tréchei me séna? Eísai árrostos? / Co się dzieje z tobą? Jesteś chory?
+v1;60;Ochi, ego jj-molis thymíthike kápoia ora-na symveí. / Nie, p-poprostu przypomniałem sobie c-coś.
+v2;100;Boreíte íchou pragmatiká epireázontai. Eíste sígouroi oti den eínai árrostos? / Brzmisz jakby coś się stało. Na pewno nie jesteś chory?
+v1;120;N-ochi, ego aplá f-aisthánontai fovisménoi. / N-nie, po prostu s-się boję.
+v2;150;Ti synévi loipon? / To co się stało?
+v1;180;Katá ti diárkeia tis l-teleftaía kataigída. Perpátisa éxo apo to chorio-vv, íxera oti den boroúsa na páro píso sto chorio prin apo tin kataigída. Gi 'afto kai krýftike káto apo éna déntro. / Podczas ostatniej b-burzy, wyszedłem poza w-wioskę. Wiedziałem, że nie wrócę do wioski na czas, więc schowałem się pod drzewem.
+v2;210;Tha diakindýneve ti zoí sas éxo apo to chorio! Tha boroúse na eíche pethánei! / Ryzykowałeś swoim życiem poza wioską! Mogeś zginąć!
+v1;240;Loipon, ímoun asfalís. Sti synécheia, omos eída éna gouroúni. I lighning chtýpise. Kai oi nekroí p-gouroúni ... I-afto sikothike kai kiníthike l-san ki emás, ch-kynigoún eména me éna lampero sw-spathí! / Wydawało się bezpiecznie. Wtedy zobaczyłem świnię. Piorun uderzył w nią a ta ś-świnia... Ona wstała i chodziła tak jak my, goniąc mnię ze lśniącym m-mieczem!
+v2;290;Tha eínai anoisíes. Tha prépei na ítan énas efiáltis. / Bredzisz. Musiało ci sie przyśnić.
+v1;320;Ítan alítheia! Sosto! Sosto! Sosto! / To prawda! To prawda! To prawda!
+v2;350;Eíste treloí. Pigaínete na párete lígo krasí, kai na iremísoun. / Oszalałeś. Idź, napij się wina i uspokój się.
+v1;380;Tha d-kánoume afto. Boreí-Ísos afto tha voithísei. / T-tak zrobię. M-może to pomoże.

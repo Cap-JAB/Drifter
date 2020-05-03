@@ -1,2 +1,4 @@
 # Drifter
-A minecraft Modpack
+
+As a Wise person said "Wham Bam Thank You Ma’am™".
+

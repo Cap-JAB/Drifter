@@ -1,0 +1,452 @@
+#From 1.12 onward, block and item names must be in lang files
+#packaged within the jar.
+#A copy is provided in millenaire/languages for the translators' convenience,
+#but will not be used by Minecraft. It will however be copied within the jar
+#when a new Millénaire version is packaged.
+
+#The Translation Gaps calculator however does use the versions in the
+#millenaire/language folder, so you can check your progress without
+#copying it in the jar
+
+
+
+itemGroup.millenaire=Millénaire
+itemGroup.millenaire_content_creator=Millénaire - pour créateurs de contenu
+
+#Item names
+
+tile.millenaire.locked_chest.name=Coffre verrouillé
+
+
+#The following items should not be translated
+#They are either proper names (the deniers)
+#or specific local specialities that aren't translated
+#in other languages
+#I'm putting them for non-Latin alphabet languages,
+#so they can be written in other alphabets
+item.millenaire.denier.name=Denier
+item.millenaire.denieror.name=Denier Or
+item.millenaire.denierargent.name=Denier Argent
+item.millenaire.calva.name=Calva
+item.millenaire.tripes.name=Tripes
+item.millenaire.boudin.name=Boudin Noir
+
+
+item.millenaire.normanpickaxe.name=Pioche normande
+item.millenaire.normanaxe.name=Hache normande
+item.millenaire.normanshovel.name=Pelle normande
+item.millenaire.normanhoe.name=Houe normande
+item.millenaire.normanbroadsword.name=Épée normande
+item.millenaire.normanhelmet.name=Casque normand
+item.millenaire.normanplate.name=Plastron normand
+item.millenaire.normanlegs.name=Jambières normandes
+item.millenaire.normanboots.name=Bottes normandes
+item.millenaire.rice.name=Riz
+item.millenaire.turmeric.name=Curcuma
+item.millenaire.vegcurry.name=Carri végétarien
+item.millenaire.chickencurry.name=Carri murgh
+item.millenaire.brickmould.name=Moule à briques
+item.millenaire.rasgulla.name=Rasgulla
+tile.millenaire.timberframeplain.name=Colombages
+tile.millenaire.timberframecross.name=Colombages à croix
+tile.millenaire.dirtwall.name=Pisé
+tile.millenaire.wetbrick0.name=Brique humide
+tile.millenaire.cookedbrick.name=Brique cuite
+tile.millenaire.mudbrick.name=Brique de terre
+item.millenaire.indianstatue.name=Statue Hindoue
+item.millenaire.ciderapple.name=Pomme à cidre
+item.millenaire.cider.name=Cidre
+item.millenaire.summoningwand.name=Baguette d'invocation
+item.millenaire.negationwand.name=Baguette de négation
+item.millenaire.parchment_normanvillagers.name=Villageois normands
+item.millenaire.parchment_normanitems.name=Objets normands
+item.millenaire.parchment_normanbuildings.name=Bâtiments normands
+item.millenaire.parchment_normanfull.name=Parchemin normand complet
+item.millenaire.tapestry.name=Tapisserie normande
+item.millenaire.vishnu_amulet.name=Amulette de Vishnou
+item.millenaire.alchemist_amulet.name=Amulette de l'Alchimiste
+item.millenaire.yggdrasil_amulet.name=Amulette d'Yggdrasil
+item.millenaire.skoll_hati_amulet.name=Amulette de Sköll et Hati
+item.millenaire.parchment_villagescroll.name=Parchemin du village
+item.millenaire.parchment_indianvillagers.name=Villageois indiens
+item.millenaire.parchment_indianitems.name=Objets indiens
+item.millenaire.parchment_indianbuildings.name=Bâtiments indiens
+item.millenaire.parchment_indianfull.name=Parchemin indien complet
+
+tile.millenaire.stairs_timberframe.name=Escalier de colombage
+tile.millenaire.stairs_thatch.name=Escalier de chaume
+tile.millenaire.stairs_cookedbrick.name=Escalier de briques cuites
+tile.millenaire.stairs_mudbrick.name=Escalier de briques de terre
+tile.millenaire.stairs_byzantine_tiles.name=Escalier de tuiles byzantines
+
+tile.millenaire.slabs_timberframeplain.name=Dalle de colombage
+tile.millenaire.slabs_thatch.name=Dalle de chaume
+tile.millenaire.slabs_cookedbrick.name=Dalle de briques cuites
+tile.millenaire.slabs_mudbrick.name=Dalle de briques de terre
+
+item.millenaire.wah.name=Wah
+item.millenaire.masa.name=Masa
+item.millenaire.maize.name=Maïs
+tile.millenaire.mayangoldblock.name=Décoration en or
+item.millenaire.mayanstatue.name=Sculpture Maya
+item.millenaire.parchment_mayanvillagers.name=Villageois mayas
+item.millenaire.parchment_mayanitems.name=Objets mayas
+item.millenaire.parchment_mayanbuildings.name=Bâtiments mayas
+item.millenaire.parchment_mayanfull.name=Parchemin maya complet
+item.millenaire.mayanmace.name=Massue d'obsidienne
+item.millenaire.mayanpickaxe.name=Pioche d'obsidienne
+item.millenaire.mayanaxe.name=Hache d'obsidienne
+item.millenaire.mayanshovel.name=Pelle d'obsidienne
+item.millenaire.mayanhoe.name=Houe d'obsidienne
+item.millenaire.obsidianflake.name=Lame d'obsidienne
+item.millenaire.cacauhaa.name=Cacauhaa
+
+tile.millenaire.paper_wall.name=Paroi de papier
+item.millenaire.udon.name=Udon
+item.millenaire.tachisword.name=Tachi
+item.millenaire.yumibow.name=Arc Yumi
+item.millenaire.sake.name=Saké
+item.millenaire.ikayaki.name=Ikayaki
+
+item.millenaire.japanesebluelegs.name=Jambières ō-yoroi bleues
+item.millenaire.japanesebluehelmet.name=Casque ō-yoroi bleu
+item.millenaire.japaneseblueplate.name=Plastron ō-yoroi bleu
+item.millenaire.japaneseblueboots.name=Bottes ō-yoroi bleues
+
+item.millenaire.japaneseredlegs.name=Jambières ō-yoroi rouges
+item.millenaire.japaneseredhelmet.name=Casque ō-yoroi rouge
+item.millenaire.japaneseredplate.name=Plastron ō-yoroi rouge
+item.millenaire.japaneseredboots.name=Bottes ō-yoroi rouges
+
+item.millenaire.japaneseguardlegs.name=Jambières keiko
+item.millenaire.japaneseguardhelmet.name=Casque keiko
+item.millenaire.japaneseguardplate.name=Plastron keiko
+item.millenaire.japaneseguardboots.name=Bottes keiko
+
+item.millenaire.parchment_japanesevillagers.name=Villageois japonais
+item.millenaire.parchment_japaneseitems.name=Objets japonais
+item.millenaire.parchment_japanesebuildings.name=Bâtiments japonais
+item.millenaire.parchment_japanesefull.name=Parchemin japonais complet
+
+tile.millenaire.thatch.name=Chaume
+
+item.millenaire.parchment_sadhu.name=Livre du Sadhu
+
+item.millenaire.unknownpowder.name=Poudre inconnue
+tile.millenaire.alchemistexplosive.name=Explosif alchimique
+
+tile.millenaire.stained_glass.white.name=Vitraux blancs
+tile.millenaire.stained_glass.yellow.name=Vitraux jaunes
+tile.millenaire.stained_glass.yellow_red.name=Vitraux jaunes et rouges
+tile.millenaire.stained_glass.red_blue.name=Vitraux rouges et bleus
+tile.millenaire.stained_glass.green_blue.name=Vitraux verts et bleus
+tile.millenaire.rosette.name=Rosette
+
+tile.millenaire.silkwormempty.name=Sériciculture vide
+tile.millenaire.silkwormfull.name=Sériciculture
+tile.millenaire.japanese_tiles.name=Tuiles japonaises
+tile.millenaire.japanese_tiles_slab.name=Dalle de tuiles japonaises
+tile.millenaire.japanese_stone_tiles.name=Tuiles japonaises mixes
+
+
+
+tile.millenaire.byzantine_tiles.name=Tuiles byzantines
+tile.millenaire.byzantine_tiles_slab.name=Dalle de tuiles byzantines
+tile.millenaire.byzantine_stone_tiles.name=Tuiles byzantines mixes
+tile.millenaire.byzantine_mosaic_red.name=Mosaïque byzantine rouge
+tile.millenaire.byzantine_mosaic_blue.name=Mosaïque byzantine bleue
+item.millenaire.grapes.name=Raisin
+item.millenaire.vine.name=Vigne
+item.millenaire.winefancy.name=Vin Malvasia
+item.millenaire.silk.name=Soie
+item.millenaire.byzantineiconsmall.name=Petite icône byzantine
+item.millenaire.byzantineiconmedium.name=Icône byzantine moyenne
+item.millenaire.byzantineiconlarge.name=Grande icône byzantine
+item.millenaire.byzantineboots.name=Bottes byzantines
+item.millenaire.byzantinelegs.name=Jambières byzantines
+item.millenaire.byzantineplate.name=Plastron byzantin
+item.millenaire.byzantinehelmet.name=Casque byzantin
+item.millenaire.byzantinemace.name=Masse d'arme byzantine
+
+item.millenaire.clothes_byz_wool.name=Vêtements byzantins en laine
+item.millenaire.clothes_byz_silk.name=Vêtements byzantins en soie
+
+item.millenaire.feta.name=Féta
+item.millenaire.winebasic.name=Vin
+item.millenaire.souvlaki.name=Souvláki
+item.millenaire.purse.name=Bourse à deniers
+
+item.millenaire.mayanquestcrown.name=Couronne Maya
+
+tile.millenaire.pathdirt.name=Chemin de terre
+tile.millenaire.pathgravel.name=Chemin de graviers
+tile.millenaire.pathslabs.name=Chemin de dalles
+tile.millenaire.pathsandstone.name=Chemin de dalles de grès
+tile.millenaire.pathochretiles.name=Chemin de dalles ocres
+tile.millenaire.pathgravelslabs.name=Chemin de dalles et graviers
+tile.millenaire.pathsnow.name=Chemin de neige
+
+tile.millenaire.pathdirt_slab.name=Chemin de terre
+tile.millenaire.pathgravel_slab.name=Chemin de graviers
+tile.millenaire.pathslabs_slab.name=Chemin de dalles
+tile.millenaire.pathsandstone_slab.name=Chemin de dalles de grès
+tile.millenaire.pathochretiles_slab.name=Chemin de dalles ocres
+tile.millenaire.pathgravelslabs_slab.name=Chemin de dalles et graviers
+tile.millenaire.pathsnow_slab.name=Chemin de neige
+
+tile.millenaire.markerblock.preserveground.name=Sol préservé
+tile.millenaire.markerblock.sleepingpos.name=Position de sommeil
+tile.millenaire.markerblock.sellingpos.name=Position de Vente
+tile.millenaire.markerblock.craftingpos.name=Position de Fabrication
+tile.millenaire.markerblock.defendingpos.name=Position de Vente
+tile.millenaire.markerblock.shelterpos.name=Position de Refuge
+tile.millenaire.markerblock.pathstartpos.name=Position de début de chemin
+tile.millenaire.markerblock.leisurepos.name=Position de Repos
+tile.millenaire.markerblock.stall.name=Position d'étal
+tile.millenaire.markerblock.brickspot.name=Position de séchage de briques
+tile.millenaire.markerblock.healingspot.name=Position de guérison
+tile.millenaire.markerblock.fishingspot.name=Position de Pêche
+
+tile.millenaire.animalspawn.cow.name=Point de Spawn de Vaches
+tile.millenaire.animalspawn.pig.name=Point de Spawn de Cochons
+tile.millenaire.animalspawn.sheep.name=Point de Spawn de Moutons
+tile.millenaire.animalspawn.chicken.name=Point de Spawn de Poulets
+tile.millenaire.animalspawn.squid.name=Point de Spawn de Poulpes
+tile.millenaire.animalspawn.wolf.name=Point de Spawn de Loups
+
+tile.millenaire.mainchest.name=Coffre Principal
+
+tile.millenaire.source.stone.name=Bloc de Source de Roche
+tile.millenaire.source.sand.name=Bloc de Source de Sable
+tile.millenaire.source.sandstone.name=Bloc de Source de Grès
+tile.millenaire.source.redsandstone.name=Bloc de Source de Grès Rouge
+tile.millenaire.source.clay.name=Bloc de Source d'argile
+tile.millenaire.source.gravel.name=Bloc de Source de Gravier
+tile.millenaire.source.granite.name=Bloc de Source de Granite
+tile.millenaire.source.diorite.name=Bloc de Source de Diorite
+tile.millenaire.source.andesite.name=Bloc de Source d'Andésite
+tile.millenaire.source.quartz.name=Bloc de Source de Quartz
+tile.millenaire.source.snow.name=Bloc de Source de Neige
+tile.millenaire.source.ice.name=Bloc de Source de Glace
+
+tile.millenaire.freeblock.stone.name=Roche Libre
+tile.millenaire.freeblock.sand.name=Sable Libre
+tile.millenaire.freeblock.gravel.name=Gravier Libre
+tile.millenaire.freeblock.sandstone.name=Grès Libre
+tile.millenaire.freeblock.wool.name=Laine Libre
+
+tile.millenaire.treespawn.oak.name=Point de Spawn de Chênes
+tile.millenaire.treespawn.pine.name=Point de Spawn de Sapins
+tile.millenaire.treespawn.birch.name=Point de Spawn de Bouleau
+tile.millenaire.treespawn.jungle.name=Point de Spawn d'Acajou
+tile.millenaire.treespawn.acacia.name=Point de Spawn d'Acacia
+tile.millenaire.treespawn.darkoak.name=Point de Spawn de Chênes Noirs
+tile.millenaire.treespawn.appletree.name=Point de Spawn de Pommiers
+
+tile.millenaire.soil.soil.name=Sol de Blé
+tile.millenaire.soil.ricesoil.name=Sol de Riz
+tile.millenaire.soil.turmericsoil.name=Sol de Curcuma
+tile.millenaire.soil.sugarcanesoil.name=Sol de Canne à Sucre
+tile.millenaire.soil.potatosoil.name=Sol de Patates
+tile.millenaire.soil.netherwartsoil.name=Sol de Verrues du Nether
+tile.millenaire.soil.vinesoil.name=Sol de Vignes
+tile.millenaire.soil.maizesoil.name=Sol de Maïs
+tile.millenaire.soil.cacaospot.name=Sol de Cacao
+tile.millenaire.soil.carrotsoil.name=Sol de Carrotes
+
+tile.millenaire.decorblock.tapestry.name=Tapisserie Normande
+tile.millenaire.decorblock.indianstatue.name=Statue Indienne
+tile.millenaire.decorblock.byzantineiconsmall.name=Petite Icône Byzantine
+tile.millenaire.decorblock.byzantineiconmedium.name=Moyenne Icône Byzantine
+tile.millenaire.decorblock.byzantineiconlarge.name=Grande Icône Byzantine
+tile.millenaire.decorblock.mayanstatue.name=Statue Maya
+
+
+
+tile.millenaire.sod_oak.name=Planches de chêne et gazon
+tile.millenaire.sod_spruce.name=Planches de pin et gazon
+tile.millenaire.sod_birch.name=Planches de bouleau et gazon
+tile.millenaire.sod_jungle.name=Planches d'acajou et gazon
+tile.millenaire.sod_acacia.name=Planches d'acacia et gazon
+tile.millenaire.sod_dark_oak.name=Planches de chêne noir et gazon
+tile.millenaire.icebrick.name=Briques de glace
+tile.millenaire.snowbrick.name=Briques de neige
+tile.millenaire.inuitcarving.name=Sculpture inuit
+tile.millenaire.snowwall.name=Mur de neige
+
+item.millenaire.furhelmet.name=Capuche de fourrure
+item.millenaire.furplate.name=Manteau de fourrure
+item.millenaire.furlegs.name=Pantalon de fourrure
+item.millenaire.furboots.name=Bottes de fourrure
+
+item.millenaire.inuitbow.name=Arc pitiksi
+item.millenaire.ulu.name=Ulu
+
+item.millenaire.inuittrident.name=Kakivak
+
+item.millenaire.bearmeat_raw.name=Viande d'ours crue
+item.millenaire.bearmeat_cooked.name=Steak d'ours
+
+item.millenaire.wolfmeat_raw.name=Viande de loup crue
+item.millenaire.wolfmeat_cooked.name=Steak de loup
+
+item.millenaire.seafood_raw.name=Viande de la mer crue
+item.millenaire.seafood_cooked.name=Viande de la mer
+
+item.millenaire.inuitbearstew.name=Ragoût inuit d'ours
+item.millenaire.inuitmeatystew.name=Ragoût inuit de viande
+item.millenaire.inuitmushroomstew.name=Ragoût inuit de champignons
+item.millenaire.inuitpotatostew.name=Ragoût inuit de pommes de terre
+
+item.millenaire.tannedhide.name=Peau traitée
+
+item.millenaire.hidehanging.name=Peau suspendue
+
+tile.millenaire.bed_straw.name=Paillasse
+tile.millenaire.bed_futon.name=Futon
+
+tile.millenaire.fire_pit.name=Foyer
+
+tile.millenaire.import_table.name=Table d'importation
+
+tile.millenaire.sapling_appletree.name=Pousse de pommier
+tile.millenaire.leaves_appletree.name=Feuilles de pommier
+
+advancements.firstcontact.name=Millénaire
+advancements.firstcontact.desc=Rencontrez un villageois Millénaire
+advancements.cresus.name=Millionnaire Millénaire
+advancements.cresus.desc=Obtenez un denier or
+advancements.summoningwand.name=Invocation
+advancements.summoningwand.desc=Achetez une baguette d’invocation et utilisez-la pour créer un village
+
+advancements.amateurarchitect.name=Architecte amateur
+advancements.amateurarchitect.desc=Générez un village avec un bâtiiment central personnalisé
+advancements.medievalmetropolis.name=Métropole médiévale
+advancements.medievalmetropolis.desc=Contrôlez un village avec au moins 100 habitants
+
+advancements.thequest.name=La Quête
+advancements.thequest.desc=Accomplissez une quête pour un villageois
+advancements.maitreapenser.name=Maître à penser
+advancements.maitreapenser.desc=Rencontrez le Sadhu ou l'Alchimiste
+advancements.explorer.name=Explorateur
+advancements.explorer.desc=Visitez un bâtiment isolé
+advancements.marcopolo.name=Marco Polo
+advancements.marcopolo.desc=Visitez des villages de trois cultures dans un seul monde
+advancements.magellan.name=Fernand de Magellan
+advancements.magellan.desc=Visitez des villages de toutes les cultures dans un seul monde
+advancements.selfdefense.name=Légitime défense
+advancements.selfdefense.desc=Tuez un bandit
+advancements.pantheon.name=Le Panthéon
+advancements.pantheon.desc=Trouvez le mystérieux Panthéon
+
+advancements.darkside.name=Le côté obscur
+advancements.darkside.desc=Tuez un villageois
+advancements.scipio.name=Carthago delenda est
+advancements.scipio.desc=Détruisez un village avec la baguette de négation
+advancements.attila.name=Attila
+advancements.attila.desc=Atteignez la réputation "fléau de Dieu" dans trois cultures
+
+advancements.cheers.name=A la santé de Minecraft !
+advancements.cheers.desc=Buvez un alcool Millénaire
+advancements.hired.name=Main d'œuvre
+advancements.hired.desc=Embauchez un villageois
+advancements.masterfarmer.name=Maître fermier
+advancements.masterfarmer.desc=Cultivez une plante Millénaire
+advancements.greathunter.name=Pas de gâchis
+advancements.greathunter.desc=Apprenez auprès des inuits à manger de nouvelles viandes
+
+
+advancements.friendindeed.name=Un vrai ami
+advancements.friendindeed.desc=Atteignez la réputation "ami du village" dans un village
+
+advancements.rainbow.name=She's like a rainbow
+advancements.rainbow.desc=Utilisez un seau de peinture à la chaux pour repeindre des briques indiennes
+
+
+advancements.rep_norman.name=Amis pour la vie
+advancements.rep_norman.desc=Atteignez la réputation "un des nôtres" dans un village normand
+advancements.rep_indian.name=Village Bhai
+advancements.rep_indian.desc=Atteignez la réputation "un des nôtres" dans un village indien
+advancements.rep_mayan.name=Liens sacrés
+advancements.rep_mayan.desc=Atteignez la réputation "un des nôtres" dans un village maya
+advancements.rep_japanese.name=Konichiwa
+advancements.rep_japanese.desc=Atteignez la réputation "un des nôtres" dans un village japonais
+advancements.rep_byzantines.name=Salutations, Romain!
+advancements.rep_byzantines.desc=Atteignez la réputation "un des nôtres" dans un village byzantin
+advancements.rep_inuits.name=Salutations, Inuit !
+advancements.rep_inuits.desc=Atteignez la réputation "un des nôtres" dans un village inuit
+
+advancements.complete_norman.name=Complet Normand
+advancements.complete_norman.desc=Aidez un village normand où vous êtes "un des nôtres" à terminer tous leurs bâtiments
+advancements.complete_indian.name=Maharchitecte
+advancements.complete_indian.desc=Aidez un village indien où vous êtes "un des nôtres" à terminer tous leurs bâtiments
+advancements.complete_mayan.name=Le haut de la pyramide
+advancements.complete_mayan.desc=Aidez un village maya où vous êtes "un des nôtres" à terminer tous leurs bâtiments
+advancements.complete_japanese.name=Soleil levant
+advancements.complete_japanese.desc=Aidez un village japonais où vous êtes "un des nôtres" à terminer tous leurs bâtiments
+advancements.complete_byzantines.name=La nouvelle nouvelle Rome
+advancements.complete_byzantines.desc=Aidez un village byzantin où vous êtes "un des nôtres" à terminer tous leurs bâtiments
+advancements.complete_inuits.name=Plus sûr en groupe
+advancements.complete_inuits.desc=Aidez un village inuit où vous êtes "un des nôtres" à terminer tous leurs bâtiments
+
+
+advancements.leader_norman.name=Sa Majesté Steve
+advancements.leader_norman.desc=Devenez un chef normand et fondez votre village contrôlé
+advancements.leader_indian.name=Petit Maharaja
+advancements.leader_indian.desc=Devenez un chef indien et fondez votre village contrôlé
+advancements.leader_mayan.name=Dieu-Roi du village
+advancements.leader_mayan.desc=Devenez un chef maya et fondez votre village contrôlé
+advancements.leader_japanese.name=Le trône pissenlit
+advancements.leader_japanese.desc=Devenez un chef japonais et fondez votre village contrôlé
+advancements.leader_byzantines.name=Né hors du pourpre
+advancements.leader_byzantines.desc=Devenez un chef byzantin et fondez votre village contrôlé
+advancements.leader_inuits.name=Un vrai inuit
+advancements.leader_inuits.desc=Devenez un chef inuit et fondez votre village contrôlé
+
+advancements.marvel_norman.name=Notre Dame de Minecraft
+advancements.marvel_norman.desc=Aidez les normands à construire une cathédrale
+
+
+advancements.wq_norman.name=Big Bang
+advancements.wq_norman.desc=Complétez le chapitre "l'Alchimiste" de la quête de la création
+advancements.wq_indian.name=Connaissances interdites
+advancements.wq_indian.desc=Complétez le chapitre "le Sadhu" de la quête de la création
+advancements.wq_mayan.name=La couronne divine
+advancements.wq_mayan.desc=Complétez le chapitre "le Roi déchu" de la quête de la création
+
+
+advancements.puja.name=Un peu d'aide des dieux
+advancements.puja.desc=Faites faire un puja à un pandit
+advancements.sacrifice.name=Du sang pour les dieux
+advancements.sacrifice.desc=Faites faire un sacrifice à un shaman
+
+advancements.viking.name=Le retour des vikings
+advancements.viking.desc=Faites faire un raid réussit à un de vos villages contrôlés
+
+advancements.mp_weapon.name=Guerrier exotique
+advancements.mp_weapon.desc=Utilisez une arme de mêlée Millénaire contre un autre joueur
+advancements.mp_hiredgoon.name=Tueur à gages
+advancements.mp_hiredgoon.desc=Embauchez un villageois et faites attaquer un autre joueur
+advancements.mp_raidonplayer.name=All your base are belong to me
+advancements.mp_raidonplayer.desc=Faites faire un raid réussit à un de vos villages sur le village d'un autre joueur
+advancements.mp_friendlyvillage.name=Utopie
+advancements.mp_friendlyvillage.desc=Devenez "ami du village" dans un village qui a déjà au moins trois "amis du village"
+advancements.mp_neighbourtrade.name=Revenus annexes
+advancements.mp_neighbourtrade.desc=Possédez un village contrôlé où un autre joueur commerce
+
+
+key.category.millenaire=Millénaire
+key.menu=Menu Millénaire
+key.villages=Liste des villages aux alentours
+key.escorts=IA des villageois embauchés (passive/aggressive)
+
+
+commands.millrenamevillage.usage=/millRenameVillage <nom actuel> <nouveau nom> <nouveau suffix>
+commands.milltp.usage=/millTp <nom du village> <nom du joueur>
+commands.millgiverep.usage=/millGiveRep <nom du joueur> <nom du village> <quantité>
+commands.millimportculture.usage=/millImportCulture <culture> <x> <z>
+commands.millspawnvillage.usage=/millSpawnVillage <culture> <type du village> (<x> <z>) (<completion>)
+commands.millspawnlonebuilding.usage=/millSpawnLoneBuilding <culture> <ltype du bâtiment isolé> (<x> <z>) (<completion>)
+commands.milldebugsendprofiles.usage=/millDebugSendProfiles <user> ou millDebugSendProfiles all
+commands.milldebugresetvillagers.usage=/millDebugResetVillagers
+commands.milllistactivevillages.usage=/millListActiveVillages

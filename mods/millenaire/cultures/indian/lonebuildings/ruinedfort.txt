@@ -1,0 +1,18 @@
+name=Purana Qila
+weight=2
+radius=15
+
+mindistancefromspawn=1000
+
+//Vanilla biomes
+biome=Desert
+biome=Desert M
+biome=DesertHills
+
+//biomes o'plenty
+biome=lush desert
+biome=outback
+biome=xeric shrubland
+
+//starting buildings=
+centre=ruinedfort

@@ -1,0 +1,5 @@
+
+travelbook.culture.desc=비잔티움 사람들은 자신들을 진정한 로마인이라 주장하며 그들만의 독특한 건축, 훈련된 군대, 그리고 성인들을 숭배하기 위해 만들어진 이콘들을 매우 자랑스러워합니다. 어떤 이들은 자신의 업적에 대해 조금은 자부심을 느낀다고 말하기도 하죠.
+travelbook.villager.architect_byzantine.desc=야만인들이 지은 황량한 판잣집과는 달리, 이 숙련된 마을사람은 마을을 위해 아름답고 문명화된 건물을 짓습니다.
+travelbook.villager.armysmith_byzantine.desc=군대의 대장장이는 마을을 위해 강력한 무기를 만듭니다.
+travelbook.villager.artisanwife_byzantine.desc=혹자는 장인보다 그의 아내가 더 능력있다고 말하곤 합니다.
