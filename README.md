@@ -1,4 +1,6 @@
 # Drifter
 
-As a Wise person said "Wham Bam Thank You Ma’am™".
+A minecraft Modpack. Wham Bam Thank You Ma'am™
+
+Nice meme
 
