@@ -1,0 +1,23 @@
+name=Apomonomeno Boske Probaton
+weight=20
+radius=10
+
+//Vanilla biomes
+biome=Plains
+biome=Sunflower Plains
+biome=Savanna
+biome=Savanna M
+biome=Savanna Plateau
+biome=Savanna Plateau M
+
+//biomes o'plenty
+biome=chaparral
+biome=heathland
+biome=meadow
+biome=orchard
+biome=scrubland
+biome=shrubland
+biome=steppe
+
+//starting buildings=
+centre=lonesheepfarm
